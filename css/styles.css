@@ -269,7 +269,7 @@ hr {
         justify-content: space-around;
     }
     #abtme {
-        width: 45%;
+        max-width: 45%;
     }
 
 }
