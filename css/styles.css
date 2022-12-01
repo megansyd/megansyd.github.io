@@ -108,6 +108,7 @@ body {
 
 #iconimg {
     max-height: 80%;
+    max-width: auto;
     border-radius: 50%;
     margin-top: 10px;
 }
@@ -263,9 +264,6 @@ hr {
         margin: 10px;
     }
 
-}
-
-@media screen and (min-width: 900px) {
     .aboutmecontentarea {
         flex-direction: row;
         justify-content: space-around;
@@ -273,5 +271,7 @@ hr {
     #abtme {
         width: 45%;
     }
+
 }
+
 
