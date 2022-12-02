@@ -217,10 +217,10 @@ a {
 @media screen and (min-width: 900px) {
     .projectwrapper {
         display: grid;
-        height: 255vh;
+        height: 300vh;
         width: 100%;
         grid-template-columns: 1fr;
-        grid-template-rows: 20vh 220vh 15vh;
+        grid-template-rows: 20vh 265vh 15vh;
         grid-template-areas: 
         "headerarea"
         "contentarea"
