@@ -200,11 +200,18 @@ h2 {
 
 hr {
     margin-bottom: 20px;
+    width: 85%;
 }
 
 #megan { 
     margin-left: auto;
     align-self: flex-end;
+}
+
+a {
+    font-family: 'Red Rose', cursive;
+    font-family: 'Signika Negative', sans-serif;
+    font-size:.8rem;
 }
 
 @media screen and (min-width: 900px) {
@@ -268,6 +275,7 @@ hr {
         flex-direction: row;
         justify-content: space-around;
     }
+
     #abtme {
         max-width: 45%;
     }
